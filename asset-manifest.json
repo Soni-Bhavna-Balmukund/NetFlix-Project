@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NetFlix-Project/static/css/main.cd1b5cc8.css",
-    "main.js": "/NetFlix-Project/static/js/main.0bf51031.js",
+    "main.js": "/NetFlix-Project/static/js/main.ac74d9c6.js",
     "static/js/453.c525d7c0.chunk.js": "/NetFlix-Project/static/js/453.c525d7c0.chunk.js",
     "static/media/bg.jpg": "/NetFlix-Project/static/media/bg.ed92483e8795e2237470.jpg",
     "static/media/tv_video.m4v": "/NetFlix-Project/static/media/tv_video.4c1a4787988d23b1039c.m4v",
@@ -28,17 +28,18 @@
     "static/media/download.gif": "/NetFlix-Project/static/media/download.1ce72c891b52e6f68f2f.gif",
     "static/media/boxshot.png": "/NetFlix-Project/static/media/boxshot.347f4ee3bafbdfe71112.png",
     "static/media/2.jpeg": "/NetFlix-Project/static/media/2.1b85b5a60b9c1ec390e7.jpeg",
+    "static/media/logo.png": "/NetFlix-Project/static/media/logo.b8299f5ddba8f0db2953.png",
     "static/media/tv.png": "/NetFlix-Project/static/media/tv.0049bc70babc1f94cf88.png",
     "static/media/7.jpeg": "/NetFlix-Project/static/media/7.5da00c1ba2ea01e9fab0.jpeg",
     "static/media/8.jpeg": "/NetFlix-Project/static/media/8.c6b9a452996c27199067.jpeg",
     "static/media/9.jpeg": "/NetFlix-Project/static/media/9.46fcefe5b545208bd0c3.jpeg",
     "index.html": "/NetFlix-Project/index.html",
     "main.cd1b5cc8.css.map": "/NetFlix-Project/static/css/main.cd1b5cc8.css.map",
-    "main.0bf51031.js.map": "/NetFlix-Project/static/js/main.0bf51031.js.map",
+    "main.ac74d9c6.js.map": "/NetFlix-Project/static/js/main.ac74d9c6.js.map",
     "453.c525d7c0.chunk.js.map": "/NetFlix-Project/static/js/453.c525d7c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd1b5cc8.css",
-    "static/js/main.0bf51031.js"
+    "static/js/main.ac74d9c6.js"
   ]
 }
