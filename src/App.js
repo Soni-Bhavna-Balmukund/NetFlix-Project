@@ -8,7 +8,7 @@ import { HiPlus } from "react-icons/hi";
 
 function App() {
 
-  let navvv = [100,200,300,400];
+  // let navvv = [100,200,300,400];
 
   return (
     <>
@@ -19,7 +19,8 @@ function App() {
 
 
 
-       <Header nam={navvv} />
+       <Header />
+       {/* <Header nam={navvv} /> */}
       <div className="bg-gray">
 
 
